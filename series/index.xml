@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Fábio Domingues</title>
-    <link>http://www.fabiodomingues.com/series/</link>
+    <link>/series/</link>
     <description>Recent content in Series on Fábio Domingues</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.fabiodomingues.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>http://www.fabiodomingues.com/series/hugo/</link>
+      <link>/series/hugo/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.fabiodomingues.com/series/hugo/</guid>
+      <guid>/series/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>http://www.fabiodomingues.com/series/theme/</link>
+      <link>/series/theme/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.fabiodomingues.com/series/theme/</guid>
+      <guid>/series/theme/</guid>
       <description></description>
     </item>
     

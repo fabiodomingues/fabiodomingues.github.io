@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.fabiodomingues.com/posts/first-post/</loc>
+    <loc>/posts/first-post/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/series/hugo/</loc>
+    <loc>/series/hugo/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/series/theme/</loc>
+    <loc>/series/theme/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/services/</loc>
+    <loc>/services/</loc>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/services/</loc>
+    <loc>/services/</loc>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.fabiodomingues.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
