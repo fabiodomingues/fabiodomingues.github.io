@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://fabiodomingues.com/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/the-first-post/</loc>
+    <loc>https://fabiodomingues.com/posts/the-first-post/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://fabiodomingues.com/posts/</loc>
     <lastmod>2023-11-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blog.en/</loc>
+    <loc>https://fabiodomingues.com/blog.en/</loc>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>https://fabiodomingues.com/blog/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://fabiodomingues.com/categories/</loc>
   </url><url>
-    <loc>/search.en/</loc>
+    <loc>https://fabiodomingues.com/search.en/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://fabiodomingues.com/search/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://fabiodomingues.com/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://fabiodomingues.com/tags/</loc>
   </url>
 </urlset>
