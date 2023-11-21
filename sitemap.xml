@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://fabiodomingues.com/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fabiodomingues.com/posts/the-first-post/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fabiodomingues.com/posts/</loc>
-    <lastmod>2023-11-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fabiodomingues.com/blog.en/</loc>
-  </url><url>
-    <loc>https://fabiodomingues.com/blog/</loc>
-  </url><url>
-    <loc>https://fabiodomingues.com/categories/</loc>
-  </url><url>
-    <loc>https://fabiodomingues.com/search.en/</loc>
-  </url><url>
-    <loc>https://fabiodomingues.com/search/</loc>
-  </url><url>
-    <loc>https://fabiodomingues.com/series/</loc>
-  </url><url>
-    <loc>https://fabiodomingues.com/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://fabiodomingues.com/pt/sitemap.xml</loc>
+    
+      <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://fabiodomingues.com/en/sitemap.xml</loc>
+    
+      <lastmod>2023-11-20T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
