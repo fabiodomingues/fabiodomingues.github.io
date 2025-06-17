@@ -4,21 +4,9 @@
     <title>Fábio Domingues</title>
     <link>https://fabiodomingues.com/</link>
     <description>Recent content on Fábio Domingues</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fabiodomingues.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Olá mundo</title>
-      <link>https://fabiodomingues.com/posts/the-first-post/</link>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://fabiodomingues.com/posts/the-first-post/</guid>
-      <description>Olá mundo!
-Já tentei começar esse blog outras vezes, mas nunca ficava bom o suficiente e eu logo desistia. Sou muito crítico comigo mesmo e me cobro muito pela qualidade das coisas que faço. E isso me fez procrastinar nesse projeto por alguns anos, e desta vez vou começar pelo básico e vou melhorar continuamente.
-Estar aqui hoje falando sobre isso tem 3 motivadores que vou falar um pouco sobre cada um.</description>
-    </item>
-    
-    
-    
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fabiodomingues.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

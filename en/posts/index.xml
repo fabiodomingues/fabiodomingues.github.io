@@ -4,19 +4,9 @@
     <title>Posts on Fábio Domingues</title>
     <link>https://fabiodomingues.com/en/posts/</link>
     <description>Recent content in Posts on Fábio Domingues</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.147.8</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://fabiodomingues.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello world</title>
-      <link>https://fabiodomingues.com/en/posts/the-first-post/</link>
-      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://fabiodomingues.com/en/posts/the-first-post/</guid>
-      <description>Hello World!
-I&amp;rsquo;ve tried to start this blog other times, but it never got good enough and I soon gave up. I&amp;rsquo;m very critical of myself and I charge myself a lot for the quality of the things I do. And that made me procrastinate on this project for a few years, and this time I&amp;rsquo;m going to start with the basics and continually improve.
-Being here today talking about this has 3 motivators that I will talk a little about each one.</description>
-    </item>
-    
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://fabiodomingues.com/en/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
